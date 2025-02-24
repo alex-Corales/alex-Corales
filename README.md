@@ -13,6 +13,12 @@
 <h2 align="center"> Tecnologias Principales </h2> 
 <p align="center">
   <a href="">
-    <img src="https://skillicons.dev/icons?i=java,spring,mysql,docker&perline=14" />
+    <img src="https://skillicons.dev/icons?i=java,spring,mysql,&perline=14" />
+  </a>
+</p>
+<h2 align="center"> Otras Tecnologias </h2> 
+<p align="center">
+  <a href="">
+    <img src="https://skillicons.dev/icons?i=c,nodejs,pug,py,express,haskell,html,css,js,bootstrap&perline=14" />
   </a>
 </p>
