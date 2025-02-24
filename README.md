@@ -1,24 +1,9 @@
+<br clear="both">
+
 <h1 align="center">Hola 👋, Soy Alex Corales</h1>
-<h3 align="center">Desarrollador de software especializado en el Backend</h3>
 
-- 🌱 Actualmente estoy aprendiendo **Spring security**
+###
 
-- 📫 Cómo contactarme **alexcorales21@gmail.com**
+<p align="left">Desarrollador de software con experiencia en Java, Spring Boot, Spring Cloud, Spring MVC, Spring Data y MySQL, y apasionado por crear soluciones robustas y escalables. Actualmente soy estudiante avanzado de la carrera Desarrollo de Software en la Universidad de La Punta (ULP), donde combino mi formación académica con proyectos prácticos.</p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/alex-corales" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alex-corales" height="30" width="40" /></a>
-</p>
-
-<h2 align="center"> Tecnologias Principales </h2> 
-<p align="center">
-  <a href="">
-    <img src="https://skillicons.dev/icons?i=java,spring,mysql,&perline=14" />
-  </a>
-</p>
-<h2 align="center"> Otras Tecnologias </h2> 
-<p align="center">
-  <a href="">
-    <img src="https://skillicons.dev/icons?i=c,nodejs,pug,py,express,haskell,html,css,js,bootstrap&perline=14" />
-  </a>
-</p>
+###
